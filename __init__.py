@@ -1,6 +1,6 @@
 """ Coffee Rush.
 
-A simple pygame game
+A simple pygame game using classes
 """
 
 __copyright__ = "(c) Geoff Goldrick 2014"
@@ -10,6 +10,7 @@ __version__ = "1.0"
 __revision__ = "20150907"
 
 """ revision notes:
+
 
 """
 

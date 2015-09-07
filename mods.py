@@ -1,6 +1,6 @@
-""" Project name.
+""" Coffee Rush.
 
-Description
+A simple pygame game using classes
 """
 
 __copyright__ = "(c) Geoff Goldrick 2014"
