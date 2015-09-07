@@ -6,8 +6,8 @@ Description
 __copyright__ = "(c) Geoff Goldrick 2014"
 __license__ = "Creative Commons Attribution-ShareAlike 2.0 Generic License."
 __author__ = "Geoff Goldrick"
-__version__ = "0.0"
-__revision__ = "20140204"
+__version__ = "1.0"
+__revision__ = "20150907"
 
 """ revision notes:
 
