@@ -5,7 +5,7 @@ A simple pygame game using classes
 
 __copyright__ = "(c) Geoff Goldrick 2014"
 __license__ = "Creative Commons Attribution-ShareAlike 2.0 Generic License."
-__author__ = "Geoff Goldrick"
+__author__ = "Dr G"
 __version__ = "1.0"
 __revision__ = "20150907"
 
